@@ -21,7 +21,7 @@ To set up the project locally, follow these steps:
 
 - Clone the repository to your local machine:
 git clone <repository_url>
-- Open the index.html file in your web browser to view the Google Home Page.
+- Open the google.html file in your web browser to view the Google Home Page.
 ## Usage
 Once the project is set up, you can interact with the Google Home Page to perform searches or access other Google services like Gmail and Images. The search bar allows you to enter search queries or URLs directly.
 
